@@ -708,7 +708,7 @@ text/coffeescript                                                         coffee
 text/css                                                                  css
 text/csv                                                                  csv
 text/hjson                                                                hjson
-text/html                                                                 html htm shtml
+text/html                                                                 html htm shtml php
 text/jade                                                                 jade
 text/jsx                                                                  jsx
 text/less                                                                 less
